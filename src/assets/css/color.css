@@ -1,0 +1,10 @@
+:root {
+    --teal: hsl(180, 100%, 25%);
+    --orange: hsl(19, 86%, 50%);
+    --white: hsl(0, 0%, 100%);
+    --dark-blue: hsl(250, 82%, 4%);
+}
+
+.bg-clr {
+    background-color: var(--teal);
+}

@@ -1,0 +1,5 @@
+.main {
+    background-image: radial-gradient( rgb(3, 3, 39), hsla(0, 33%, 97%, 0.068), rgb(3, 3, 39)), url('/images/bg.JPG');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
