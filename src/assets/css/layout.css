@@ -19,8 +19,7 @@ body {
 
 /* Header */
 
-.container {
-    width: 100%;
+.container { 
     padding-right: 15px;
     padding-left: 15px;
     margin-right: auto;
@@ -69,6 +68,48 @@ body {
     text-align: center;
 }
 
+/* About Me */
+.col-2{
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 3rem;
+    margin: 5rem auto;
+    
+}
+.txt{
+    display: grid;
+    padding: 0 4rem ;
+    /* background-color: var(--teal);
+    color: var(--white); */
+}
+.txt div .orange{
+    color: var(--orange);
+}
+.txt div >b,.heading {
+    text-transform: uppercase;
+    font-size: 1.3em;
+}
+
+.heading
+{
+    font-weight: bolder;
+    font-size: xx-large;
+    letter-spacing: -1px;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.txt .btn button{
+    background-color: var(--orange);
+    color: var(--white);
+    border: none;
+    border-radius: 5px;
+    padding: .8rem 2.5rem;  
+    letter-spacing: -1px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 @media (max-width: 575.95px) {
     body {
         font-size: 12px;
