@@ -22,10 +22,10 @@ const active = computed(()=>{
 
         <div class="nav-bar" id="navBar" ref="navBar">
             <RouterLink to="/" > <div class="nav-item">HOME</div></RouterLink>
-            <RouterLink to="/about"> <div class="nav-item">ABOUT</div></RouterLink>
             <RouterLink to="/service"><div class="nav-item"> SERVICES</div></RouterLink>
             <RouterLink to="/work"><div class="nav-item">WORK</div></RouterLink>
             <RouterLink to="/blog"><div class="nav-item">BLOG</div></RouterLink>
+            <RouterLink to="/about"> <div class="nav-item">ABOUT</div></RouterLink>
             <RouterLink to="/contact"><div class="nav-item">CONTACT</div></RouterLink>
         </div>
     </div>

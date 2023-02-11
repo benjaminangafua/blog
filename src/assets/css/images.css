@@ -1,8 +1,8 @@
 .main-container {
-    background: var(--dark-blue);
+    /* background: var(--dark-blue); */
 }
 img {
     border-radius: 10px;
-    width: 400px;
-    /* height: 380px;  */
+    width: 380px;
+    box-shadow: 1rem 1rem var(--white), -1rem -1rem var(--orange); 
 }
