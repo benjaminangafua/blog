@@ -1,5 +1,5 @@
 .main-container {
-    /* background: teal; */
+    background: var(--dark-blue);
 }
 img {
     border-radius: 10px;

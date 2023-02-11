@@ -1,6 +1,5 @@
 
 <script setup>
-
 </script>
 
 <template> 
@@ -22,7 +21,7 @@
         <div class="btn"><button>GET IN TOUCH</button></div>
     </div>
     <div class="about-img"><img src="/images/about-me.jpeg" alt=""></div>
-</div>
+</div> 
 </template>
 
 <style scoped>

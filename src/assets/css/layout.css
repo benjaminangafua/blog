@@ -64,23 +64,23 @@ body {
     place-items: center;
 }
 
-.footer {
-    text-align: center;
-}
 
 /* About Me */
 .col-2{
     display: grid;
     grid-template-columns: auto auto;
-    gap: 3rem;
-    margin: 5rem auto;
+    gap: 5%;
+    margin: 5% auto;
     
 }
 .txt{
     display: grid;
-    padding: 0 4rem ;
-    /* background-color: var(--teal);
-    color: var(--white); */
+    padding-left: 2rem;
+    padding-top: 1rem;
+    width: 25rem;
+     background-color: var(--white);
+     border-radius: 10px;  /* color: var(--white); */
+     border-right: 1rem groove var(--orange);
 }
 .txt div .orange{
     color: var(--orange);
@@ -109,6 +109,10 @@ body {
     letter-spacing: -1px;
     font-weight: bold;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.footer {
+    text-align: center;
 }
 @media (max-width: 575.95px) {
     body {
