@@ -26,13 +26,12 @@
     </div>
 
     <div class="curve-design">
-         <!-- <svg id="visual" viewBox="0 0 900 600" width="900" height="600" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"><path d="M568 600L603.7 583.3C639.3 566.7 710.7 533.3 715.7 500C720.7 466.7 659.3 433.3 623 400C586.7 366.7 575.3 333.3 587 300C598.7 266.7 633.3 233.3 643.3 200C653.3 166.7 638.7 133.3 622.8 100C607 66.7 590 33.3 581.5 16.7L573 0L900 0L900 16.7C900 33.3 900 66.7 900 100C900 133.3 900 166.7 900 200C900 233.3 900 266.7 900 300C900 333.3 900 366.7 900 400C900 433.3 900 466.7 900 500C900 533.3 900 566.7 900 583.3L900 600Z" fill="#F7770F" stroke-linecap="round" stroke-linejoin="miter"></path></svg> -->
-    <h1>Kindly leave a message to keep in touch! </h1>
+        <svg id="visual" viewBox="0 0 750 860" width="450" height="555" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"><path d="M353 900L354.5 885C356 870 359 840 354.7 810C350.3 780 338.7 750 335.8 720C333 690 339 660 345.7 630C352.3 600 359.7 570 365.8 540C372 510 377 480 371.8 450C366.7 420 351.3 390 342.8 360C334.3 330 332.7 300 334 270C335.3 240 339.7 210 343 180C346.3 150 348.7 120 347.3 90C346 60 341 30 338.5 15L336 0L450 0L450 15C450 30 450 60 450 90C450 120 450 150 450 180C450 210 450 240 450 270C450 300 450 330 450 360C450 390 450 420 450 450C450 480 450 510 450 540C450 570 450 600 450 630C450 660 450 690 450 720C450 750 450 780 450 810C450 840 450 870 450 885L450 900Z" fill="#F7770F" stroke-linecap="round" stroke-linejoin="miter"></path></svg>        
+        <h1>Kindly leave a message to keep in touch! </h1>
        
     </div>
 </div>
 </template>
 
-<style scoped>
-
+<style scoped> 
 </style>

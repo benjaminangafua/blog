@@ -134,6 +134,7 @@ form{
 
 }
 div svg{
+    display: grid;
     /* width: 100%;  */
 }
 .footer {
